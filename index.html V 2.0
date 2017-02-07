@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/spencman/spenceman.github.io/master/css/main.css">
+		<title>Spencer, Goodnight, Jr. Programmer in training.</title>
+	</head>
+	<a href=<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<a/>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Spencer Goodnight!</h1>
+				 <p><a href="/about">Read more about my life...</a></p>
+    		<p> My name is spencer goodnight and i am a Jr. dev/programmer. I am still learning but here you will learn about me. </p>
+			<p> My name is spencer goodnight and I am in 7th grade</p>
+			<p> A little bit you should know about me is i am still learning programming and I intend to be a computer engineer. I love to program things and i am great with Technology. </p>
+			</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:spencergoodnight324@gmail.com">email</a></li>
+        		
+			</ul>
+		</footer>
+	</body>
+</html>
