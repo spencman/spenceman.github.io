@@ -8,21 +8,18 @@
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<a/>
 	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Spencer Goodnight!</h1>
-				 <p><a href="/about">Read more about my life...</a></p>
+				
     		<p> My name is spencer goodnight and i am a Jr. dev/programmer. I am still learning but here you will learn about me. </p>
-			<p> My name is spencer goodnight and I am in 7th grade</p>
-			<p> A little bit you should know about me is i am still learning programming and I intend to be a computer engineer. I love to program things and i am great with Technology. </p>
+			<p> My name is spencer goodnight and I am in 7th grade. A little bit you should know about me is i am still learning programming and I intend to be a computer engineer.
+			I love to program things and i am great with Technology. </p>
+			<p> I am currently still learning how to programm things but if you encounter any thing wrong with my website or you would like to see some things added to it then you can email me here.</p>
+			<p> Some things i emjoy is airsoft. I play airsoft at stockyards airsoft arena and i enjoy to play with my friends there. </p> 
+			<p> In my freetime I sometimes go to my friends house and play airsoft over there.
+			<p> I play on a game called roblox sometimes also. I am currently a Sergeant Major there. </p>
+			
 			</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
