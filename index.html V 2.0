@@ -10,7 +10,7 @@
 	<body>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Spencer Goodnight!</h1>
+        		<h1>Hello. Welcome to my website!</h1>
 				
     		<p> My name is spencer goodnight and i am a Jr. dev/programmer. I am still learning but here you will learn about me. </p>
 			<p> My name is spencer goodnight and I am in 7th grade. A little bit you should know about me is i am still learning programming and I intend to be a computer engineer.
@@ -19,6 +19,10 @@
 			<p> Some things i emjoy is airsoft. I play airsoft at stockyards airsoft arena and i enjoy to play with my friends there. </p> 
 			<p> In my freetime I sometimes go to my friends house and play airsoft over there.
 			<p> I play on a game called roblox sometimes also. I am currently a Sergeant Major there. </p>
+			<p> In roblox i have created a game it is quiet interesting. explore the map where you will find random cool cars.
+			here is a link to the website. <a href="https://www.roblox.com/games/130967265/hemanwe12s-place#!/about ">.
+			</a>
+			
 			
 			</div><!-- /.blurb -->
 		</div><!-- /.container -->
